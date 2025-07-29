@@ -57,6 +57,12 @@
             ]
           },
           {
+            "group": "Testing",
+            "pages": [
+              "Testing/Test"
+            ]
+          },
+          {
             "group": "Endpoint examples",
             "pages": [
               "api-reference/endpoint/get",
